@@ -1,2 +1,3 @@
 # hello-word
-just another repository
+Hi Didier!
+imaneledthelife here,I like node.js....
